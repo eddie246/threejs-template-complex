@@ -1,6 +1,6 @@
 # Three.js - Template - Complex
 
-🚧 This template is under construction
+🚧 This template is still under construction
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
